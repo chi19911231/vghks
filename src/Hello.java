@@ -5,7 +5,7 @@ public class Hello {
 		// TODO 自動產生的方法 Stub
 		
 		//---------------------
-		System.out.println("Hello HC43_2_1");
+		System.out.println("Hello Test001");
 		//---------------------
 		
 	}
